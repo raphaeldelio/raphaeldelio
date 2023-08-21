@@ -1,6 +1,6 @@
 Hey! 
 
-My name's Raphael De Lio, and I'm a software developer with more than five years of experience. Software engineering is the tool I found to nurture my passion which lies in solving problems. 
+My name's Raphael De Lio, and I'm a software developer with multiple years of experience. Software engineering is the tool I found to nurture my passion which lies in solving problems. 
 
 Currently, I've been enjoying developing with Kotlin and Flutter and experimenting with Redis. I have an YouTube channel where I share my latest coding adventures and a Medium page with the same purpose.
 
